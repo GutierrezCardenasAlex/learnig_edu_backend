@@ -1,0 +1,31 @@
+// FILEPATH: /workspaces/LMS-Backend/.gitignore
+# Dependency directories
+/node_modules
+
+# Build files
+/build
+/dist
+
+# Environment variables
+.env
+
+# IDE files
+/.vscode
+/.idea
+
+# Logs
+/logs
+
+# Testing files
+/coverage
+
+# Miscellaneous
+.DS_Store
+
+#recursos
+pnpm-lock.yaml
+pnpm-workspaces.yaml
+package-lock.json
+yarn.lock
+
+mdbinstall.log

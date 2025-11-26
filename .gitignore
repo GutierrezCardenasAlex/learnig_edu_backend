@@ -22,8 +22,8 @@
 # Miscellaneous
 .DS_Store
 
-#recursos
-pnpm-lock.yaml
+#recursosy
+
 pnpm-workspaces.yaml
 package-lock.json
 yarn.lock
